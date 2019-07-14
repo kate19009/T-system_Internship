@@ -34,7 +34,7 @@ else:
 
 
 print("[INFO] loading network and label binarizer...")
-model = load_model("vgg.h5")
+model = load_model("output")
 
 lb = pickle.loads(open(args["label_bin"], "rb").read())
 
