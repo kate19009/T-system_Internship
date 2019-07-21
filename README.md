@@ -7,7 +7,6 @@ ControlsNN is a library containing a convolutional neural network that is capabl
 The architecture of the neural network is shown in the picture:
 
 ![Architecture](https://github.com//AnneVR/T-systems_Internship/raw/master/Architecture.png)
-
 # Installation
 To use ControlsNN, you will need Python >= 3.3 and some additional libraries:
 - Tensorflow 1.14.0
