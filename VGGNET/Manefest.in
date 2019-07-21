@@ -1,0 +1,2 @@
+include ControlsNN/vggnet.model
+include ControlsNN/vggnet_lb.pickle
